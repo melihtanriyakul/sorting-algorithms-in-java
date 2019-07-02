@@ -1,0 +1,120 @@
+begin worst radix
+4190
+4253
+6801
+9866
+12649
+end
+
+begin avr radix
+3040
+3481
+6056
+9111
+10793
+end
+
+begin best radix
+2716
+2845
+5037
+6013
+7837
+end
+
+begin worst selection
+57807
+133346
+446714
+1178848
+2340171
+end
+
+begin avr selection
+57764
+129932
+446446
+1217178
+2796546
+end
+
+begin best selection
+58072
+125211
+443647
+1231478
+2384021
+end
+
+begin worst insertion
+3308
+9525
+38791
+85668
+153044
+end
+
+begin avr insertion
+2829
+9506
+38260
+85407
+152836
+end
+
+begin best insertion
+18
+37
+77
+125
+151
+end
+
+begin worst merge
+1221
+1715
+3214
+5935
+7350
+end
+
+begin avr merge
+1093
+1753
+3215
+5569
+7189
+end
+
+begin best merge
+1239
+1689
+2958
+4883
+5994
+end
+
+begin worst binary
+940
+683
+341
+85
+171
+end
+
+begin avr binary
+769
+1881
+599
+342
+427
+end
+
+begin best binary
+342
+85
+85
+85
+85
+end
+
